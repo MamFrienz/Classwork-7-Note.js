@@ -1,14 +1,14 @@
 {
-  "name": "workspace CW8",
+  "name": "cw8",
   "version": "1.0.0",
   "description": "",
-  "main": "Server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MamFrienz/Classwork-7-Note.js.git"
+    "url": "git+https://github.com/AkibSadmanee/First-Node-Server.git"
   },
   "author": "",
   "license": "ISC",
@@ -16,14 +16,14 @@
     "url": "https://github.com/MamFrienz/Classwork-7-Note.js/issues"
   },
   "homepage": "https://github.com/MamFrienz/Classwork-7-Note.js#readme"
-}
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "mongodb": "^3.1.10"
+    "mongoose": "^5.3.13"
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
   }
 }
+
